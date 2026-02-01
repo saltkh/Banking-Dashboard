@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  BankingDashboard
-//
-//  Created by Mariam Saltkhutsishvili on 01.02.26.
-//
-
 import SwiftUI
 
 struct ContentView: View {

@@ -1,9 +1,3 @@
-//
-//  BankingDashboardUITestsLaunchTests.swift
-//  BankingDashboardUITests
-//
-//  Created by Mariam Saltkhutsishvili on 01.02.26.
-//
 
 import XCTest
 

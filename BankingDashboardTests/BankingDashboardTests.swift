@@ -1,9 +1,4 @@
-//
-//  BankingDashboardTests.swift
-//  BankingDashboardTests
-//
-//  Created by Mariam Saltkhutsishvili on 01.02.26.
-//
+
 
 import Testing
 @testable import BankingDashboard
