@@ -1,4 +1,4 @@
-# 💳 Banking Dashboard
+# Banking Dashboard
 
 An iOS banking dashboard app built in **Swift** and **SwiftUI**, showcasing UI design skills with a clean, modern financial interface.
 
