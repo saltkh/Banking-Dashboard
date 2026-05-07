@@ -56,14 +56,7 @@ No API keys or external dependencies required — the app uses local mock data.
 
 ## What I'd Add Next
 
-- Spending breakdown chart (Swift Charts)
-- Filter transactions by date range or category
 - Biometric authentication (Face ID / Touch ID)
 - Backend integration with a REST API
 
 ---
-
-## Author
-
-**Mariam Saltkhutsishvili** — Third-year CS student, Tbilisi, Georgia
-[GitHub](https://github.com/saltkh)
